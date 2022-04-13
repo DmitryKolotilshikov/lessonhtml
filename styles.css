@@ -1,0 +1,29 @@
+body {
+  background-color: #FDF6EC;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+hr {
+  height: 3px;
+  background-color: #B7CADB;
+  width: 800px;
+}
+
+.about {
+  padding: 20px;
+  margin: 0 auto;
+  width: 800px;
+  text-align: center;
+}
+
+.block {
+  border: 1px solid black;
+  width: 800px;
+  margin: 20px auto;
+  padding: 10px;
+}
